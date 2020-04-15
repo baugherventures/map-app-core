@@ -2,14 +2,14 @@ import React from 'react';
 import Footer from '../assets/Footer';
 
 
-const Dashboard=() => {
+const Saved=() => {
 
     return (
-        <div className="dashboard">
-            <h1>Dashboard</h1>
+        <div className="saved">
+            <h1>Saved</h1>
             <Footer/>
         </div>
     )
 }
 
-export default Dashboard;
+export default Saved;
